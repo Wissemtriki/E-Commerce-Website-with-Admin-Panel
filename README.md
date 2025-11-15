@@ -1,10 +1,10 @@
-E-Commerce Website with Admin Panel
-📌 Overview
+## E-Commerce Website with Admin Panel
+##📌 Overview
 
 This project is a complete e-commerce web application that includes a customer interface and a powerful admin dashboard. Customers can browse products, manage their cart, and place orders. Administrators manage products, categories, orders, and customer accounts.
 
-🚀 Features
-Customer Side
+##🚀 Features
+## Customer Side
 
 Browse and search products
 
@@ -18,7 +18,7 @@ User login & registration
 
 Responsive design
 
-Admin Panel
+##Admin Panel
 
 Add / Edit / Delete products
 
@@ -30,7 +30,7 @@ Manage orders
 
 Dashboard with statistics
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Frontend: HTML, CSS, JavaScript, Bootstrap
 
