@@ -18,7 +18,7 @@ User login & registration
 
 Responsive design
 
-##Admin Panel
+## Admin Panel
 
 Add / Edit / Delete products
 
